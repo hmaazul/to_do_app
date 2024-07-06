@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: #313131;
+    background: linear-gradient(#e66465, #9198e5);
     font-family: sans-serif;
     display: flex;
     /* align-items: center; */
